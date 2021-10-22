@@ -77,6 +77,7 @@ def tampil():
 def Author():    
     os.system('clear');
     print("Ardi Fernanda Tambunan")
+    print("Putri Ananda Safira")
     print("UNHAR")
 
 def pilih1():
